@@ -1,0 +1,17 @@
+{
+  "name": "kk11-oop-mybank",
+  "version": "1.0.2",
+  "description": "This is oop mybank",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  }
+}
